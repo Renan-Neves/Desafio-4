@@ -21,3 +21,8 @@ div.b{text-align: justify;
 .texto{font-weight: bold;
     text-align: center;
     }
+
+table {
+    border-collapse: separate; 
+    border-spacing: 2em 1em;
+}
